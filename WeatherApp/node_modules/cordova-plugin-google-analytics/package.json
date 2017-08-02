@@ -1,0 +1,60 @@
+{
+  "_from": "git+https://github.com/danwilson/google-analytics-plugin.git",
+  "_id": "cordova-plugin-google-analytics@1.8.3",
+  "_inBundle": false,
+  "_integrity": "sha1-g1HjeHPBfD4QkUeX15RtSxKYKA4=",
+  "_location": "/cordova-plugin-google-analytics",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/danwilson/google-analytics-plugin.git",
+    "rawSpec": "https://github.com/danwilson/google-analytics-plugin.git",
+    "saveSpec": "git+https://github.com/danwilson/google-analytics-plugin.git",
+    "fetchSpec": "https://github.com/danwilson/google-analytics-plugin.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/danwilson/google-analytics-plugin.git#f00fdbd34a90b47571c0e6cb7b2aab34e3ef8ac5",
+  "_spec": "https://github.com/danwilson/google-analytics-plugin.git",
+  "_where": "/Users/nayan/Documents/cordova/cordova-samples/weather-app/WeatherApp/node_modules",
+  "author": {
+    "name": "Dan Wilson"
+  },
+  "bugs": {
+    "url": "https://github.com/danwilson/google-analytics-plugin/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-google-analytics",
+    "platforms": [
+      "android",
+      "ios",
+      "windows",
+      "browser"
+    ]
+  },
+  "deprecated": false,
+  "description": "Google Universal Analytics Plugin",
+  "homepage": "https://github.com/danwilson/google-analytics-plugin#readme",
+  "keywords": [
+    "cordova",
+    "googleanalytics",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "analytics",
+    "google",
+    "universal",
+    "universalanalytics"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-google-analytics",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danwilson/google-analytics-plugin.git"
+  },
+  "version": "1.8.3"
+}

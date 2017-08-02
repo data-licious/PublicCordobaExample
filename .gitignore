@@ -1,0 +1,18 @@
+# general files
+.DS_Store
+
+# Android
+/WeatherApp/platforms/android/assets/www
+WeatherApp/platforms/android/bin/
+WeatherApp/platforms/android/gen/
+WeatherApp/platforms/android/res/xml/config.xml
+
+# iOS
+WeatherApp/platforms/ios/build/
+WeatherApp/platforms/ios/CordovaLib/build/
+WeatherApp/platforms/ios/www
+WeatherApp/platforms/ios/MyPace/config.xml
+WeatherApp/platforms/ios/.staging
+
+# Emulator logs
+WeatherApp/platforms/ios/cordova/console.log
